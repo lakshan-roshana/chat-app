@@ -1,0 +1,1 @@
+//if need we can add sample users and connect with this database using command node src/seeds/user.seed.js
